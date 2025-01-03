@@ -7,7 +7,7 @@
 
 - 👨‍💻 Explore my projects on [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327)
 
-- 📫 Reach me at: **awaiskhanbaloch11227@gmail.com**
+- 📫 Reach me at: **awaismanzor125@gmail.com**
 
 - ⚡ Fun fact: **I enjoy mixing humor with analytics!**
 
@@ -47,5 +47,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awais11227&show_icons=true&locale=en&layout=compact" alt="Awais's Top Languages" />
 </p>
-
-
