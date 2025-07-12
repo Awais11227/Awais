@@ -1,10 +1,10 @@
-<!-- Animated Banner -->
+<!-- 🎥 Animated Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0a66c2;">Awais Manzoor</span></h1>
-<h3 align="center">💡 Business Data Analyst | SQL & Python Enthusiast | Financial Insight Crafter</h3>
+<h3 align="center">💡 Business Data Analyst | Python & SQL Specialist | Financial Insight Crafter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Awais11227&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,45 +12,57 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-ffcc00?style=for-the-badge&logo=oracle&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-Analysis-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-### 🌌 About Me
-🔎 I'm a data analyst who translates numbers into business stories. With a focus on **Oracle SQL**, **Python**, and **financial analytics**, I craft solutions that speak directly to decision-makers.  
-📊 Skilled in **EDA**, **Jupyter-based analysis**, **automated reports**, and **insight generation**.
+### ✨ About Me
+🔍 I'm a business data analyst turning data into decisions.  
+⚡ Skilled in **SQL (Oracle & MySQL)**, **Python**, **Excel**, and **Jupyter Notebooks**.  
+📊 Focused on **statistical analysis**, **financial reporting**, and **automated dashboards**.  
+💬 Contact me at: **awaismanzor125@gmail.com**  
+📢 I regularly share SQL & Python insights on [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327)
 
-📫 **Email:** awaismanzor125@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327) | [GitHub Projects](https://github.com/Awais11227)
+---
+
+### 🚧 Currently Learning
+- 📊 Power BI (Visual Dashboards & DAX)
+- 🧠 Machine Learning basics with Scikit-learn
+- 🧾 Python for PDF Automation
+- ⚙️ Advanced Oracle SQL (PL/SQL procedures & views)
 
 ---
 
 ### 🧠 Featured Projects
 
-#### 📊 Comparative Financial Statement Analysis  
-🛠 Excel + Python → Ratio, Horizontal, Vertical, Risk/Return Analysis  
-📆 05/2025 – 06/2025
+#### 📊 Financial Statement Analysis  
+🧰 Excel + Python → Ratios, Risk, Horizontal & Vertical Analysis  
+📂 [View Report (Google Drive)](https://drive.google.com/) _(Replace with your real link)_  
+📅 May 2025 – June 2025
 
-#### 📚 Python Statistical Analysis (Jupyter)  
-🎓 EDA, KDE, box plots, outliers, confidence intervals  
-📂 Tools: Pandas, Seaborn, Scipy, Matplotlib  
+#### 🧪 Python Statistical Analysis (Jupyter Notebooks)  
+🔍 Box plots, KDE, skewness, outliers, CI testing  
+📂 [Notebook Example](https://github.com/Awais11227/YourNotebookRepo) _(Replace this with your Jupyter repo link)_  
 📅 Ongoing
 
-#### 🖥 Order Management System (Python GUI)  
-🛒 Full Tkinter-based system for real-time order & inventory  
-📅 07/2024 – 11/2024
+#### 🛒 Order Management System (Python GUI)  
+📦 Built with Tkinter for small-scale inventory & sales tracking  
+🛠 SQLite, Login System, Auto Notifications  
+📅 July 2024 – Nov 2024
 
 #### 🚴 Cycling Violation Report Automation  
-📍 PDF reports with GPS, QR, and plate image  
-📅 04/2024 – 05/2024
+📌 Captures GPS, time, plate, auto-generates PDF for police use  
+🛠 Tools: Pillow, FPDF, QRCode  
+📅 April 2024 – May 2024
 
 ---
 
-### 🧰 Tools & Skills
+### 🛠 Skills & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
@@ -61,6 +73,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="40" />
 </p>
 
 ---
@@ -79,7 +92,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/awais-manzoor-27325b327" target="_blank">
