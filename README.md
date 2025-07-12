@@ -1,98 +1,92 @@
-<!-- 🎥 Animated Banner -->
+<!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Welcome banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2;">Awais Manzoor</span></h1>
-<h3 align="center">💡 Business Data Analyst | Python & SQL Specialist | Financial Insight Crafter</h3>
+<h1 align="center">Awais Manzoor</h1>
+<h3 align="center">Business Data Analyst | Python & SQL Developer | Financial Insight Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Awais11227&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=Awais11227&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### ✨ About Me
-🔍 I'm a business data analyst turning data into decisions.  
-⚡ Skilled in **SQL (Oracle & MySQL)**, **Python**, **Excel**, and **Jupyter Notebooks**.  
-📊 Focused on **statistical analysis**, **financial reporting**, and **automated dashboards**.  
-💬 Contact me at: **awaismanzor125@gmail.com**  
-📢 I regularly share SQL & Python insights on [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327)
+### About Me
+
+I'm a results-driven data analyst with a solid background in:
+
+- Writing efficient **Oracle SQL** queries and procedures  
+- Building **financial statement analyses** using Excel & Python  
+- Conducting **statistical analysis** and visual storytelling in **Jupyter Notebooks**
+
+I specialize in transforming raw data into business value, automating reports, and building dashboards for better decision-making.
+
+📫 Email: **awaismanzor125@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327) | [GitHub Projects](https://github.com/Awais11227)
 
 ---
 
-### 🚧 Currently Learning
-- 📊 Power BI (Visual Dashboards & DAX)
-- 🧠 Machine Learning basics with Scikit-learn
-- 🧾 Python for PDF Automation
-- ⚙️ Advanced Oracle SQL (PL/SQL procedures & views)
-
----
-
-### 🧠 Featured Projects
+### Core Projects
 
 #### 📊 Financial Statement Analysis  
-🧰 Excel + Python → Ratios, Risk, Horizontal & Vertical Analysis  
-📂 [View Report (Google Drive)](https://drive.google.com/) _(Replace with your real link)_  
-📅 May 2025 – June 2025
+**Excel + Python** | Ratios | Vertical/Horizontal | Risk-Return  
+→ *Comparative analysis of Dewan Farooque Motors Ltd. and Indus Motor Co.*  
+📁 *[Report Link](https://drive.google.com)*
 
-#### 🧪 Python Statistical Analysis (Jupyter Notebooks)  
-🔍 Box plots, KDE, skewness, outliers, CI testing  
-📂 [Notebook Example](https://github.com/Awais11227/YourNotebookRepo) _(Replace this with your Jupyter repo link)_  
-📅 Ongoing
+#### 📚 Statistical Analysis in Python (Jupyter)  
+Exploratory data analysis with:  
+→ KDE plots, boxplots, skewness, kurtosis, confidence intervals  
+📁 *[Notebook Link](https://github.com/Awais11227/YourNotebookRepo)*
 
-#### 🛒 Order Management System (Python GUI)  
-📦 Built with Tkinter for small-scale inventory & sales tracking  
-🛠 SQLite, Login System, Auto Notifications  
-📅 July 2024 – Nov 2024
+#### 🛒 Python GUI – Order Management System  
+A full-featured **Tkinter** desktop application to manage inventory & sales with SQLite backend
 
-#### 🚴 Cycling Violation Report Automation  
-📌 Captures GPS, time, plate, auto-generates PDF for police use  
-🛠 Tools: Pillow, FPDF, QRCode  
-📅 April 2024 – May 2024
+#### 🚴 Cycling Violation Automation  
+Automated **PDF reports** using GPS, time, and plate capture for traffic enforcement agencies
 
 ---
 
-### 🛠 Skills & Tools
+### Currently Exploring
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Oracle_SQL_Developer_logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="40" />
-</p>
+- 📌 Power BI dashboards with real business data  
+- 📦 Python-based PDF automation (FPDF, Pillow, QRCode)  
+- 📈 Deeper statistical modeling using SciPy and statsmodels  
+- 🧠 ML foundations with Scikit-learn
 
 ---
 
-### 📈 GitHub Stats
+### Toolset & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais11227&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=radical" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="35" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Oracle_SQL_Developer_logo.svg" title="Oracle SQL" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="45" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" width="35" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="35" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" title="Power BI" width="35" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais11227&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/awais-manzoor-27325b327" target="_blank">
