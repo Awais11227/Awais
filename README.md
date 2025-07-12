@@ -8,28 +8,33 @@
 ---
 
 ### ✨ About Me
-- 💼 Data Analyst (He/Him) with a passion for transforming raw data into business insights.
-- ⚖️ Skilled in **Python, Oracle SQL, MySQL, Excel, EDA, Data Cleaning, Statistics, and Data Visualization**.
-- 🎓 Currently exploring advanced SQL queries, reporting automation, and dashboard design.
+- 💼 Data Analyst (He/Him) passionate about turning complex data into clear business insights.
+- 🧮 Skilled in **Oracle SQL, MySQL, Python, Excel, Statistical Analysis, Data Cleaning, and Data Visualization**.
+- 📊 Experienced in **Financial Statement Analysis** and **Python-based Reporting Automation**.
+- 📚 Currently diving deeper into **SQL optimization**, **Jupyter Notebooks**, and **dashboard creation**.
 - 💌 Reach me at: **awaismanzor125@gmail.com**
-- 🚀 Sharing SQL & Python tips regularly on [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327)
-- ✨ Fun Fact: I enjoy blending analytics with creativity and a touch of humor!
+- 📢 I actively share insights on [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327)
+- ✨ Fun Fact: I love combining analytics with creativity, storytelling, and a bit of humor!
 
 ---
 
-### 📊 Featured Projects
+### 🧠 Featured Projects
 
 #### 🌐 Online Order Management System (Python GUI)
-* **Duration:** 07/2024 – 11/2024  
-* Developed a complete Python-based system for managing online customer orders, inventory, and admin workflows via an intuitive GUI.
+* 📆 **Duration:** 07/2024 – 11/2024  
+* 🧰 Built a user-friendly system for tracking orders, managing inventory, and streamlining admin tasks using **Tkinter + SQLite**.
 
-#### 📈 Comparative Financial Statement Analysis (Excel)
-* **Duration:** 05/2025 – 06/2025  
-* Analyzed Dewan Farooque Motors Ltd. vs Indus Motor Co. using ratio analysis, vertical & horizontal techniques, and risk-return metrics.
+#### 📊 Comparative Financial Statement Analysis (Excel + Stats)
+* 📆 **Duration:** 05/2025 – 06/2025  
+* 🔍 Compared Dewan Farooque Motors Ltd. and Indus Motor Co. using **ratio analysis**, **vertical & horizontal analysis**, and **risk-return metrics**.
 
-#### 🚴️ Cycling Safety Violation Report Automation
-* **Duration:** 04/2024 – 05/2024  
-* Automated PDF generation using Python (FPDF, Pillow, qrcode) to document cycling violations including GPS data and plate images.
+#### 📈 Statistical Analysis in Python (Jupyter Notebooks)
+* 📆 **Duration:** Ongoing  
+* 📚 Performed EDA, hypothesis testing, KDE plots, box plots, and descriptive statistics using **Pandas, Seaborn, and Scipy**.
+
+#### 🚴 Cycling Safety Violation Report Automation
+* 📆 **Duration:** 04/2024 – 05/2024  
+* ⚙️ Used **Python (FPDF, Pillow, qrcode)** to automatically generate PDF reports of violations with GPS, plate images, and timestamps.
 
 ---
 
@@ -54,12 +59,13 @@
 <h3 align="center">🤝 Skills & Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Oracle_SQL_Developer_logo.svg" alt="Oracle SQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303235/oracle-logo.svg" alt="Oracle SQL" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
 </p>
 
 ---
@@ -74,3 +80,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awais11227&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
