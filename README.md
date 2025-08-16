@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me  
- 🚀 Welcome to My Data World
+
 🎓 BS in Business Data Analytics at COMSATS University Islamabad Campus  
 💻 Data Analyst skilled in **Python, SQL, Statistical Analysis, Power BI, and EDA**  
 🔍 Passionate about uncovering insights through data and building practical projects  
