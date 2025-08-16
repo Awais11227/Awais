@@ -1,108 +1,75 @@
-<!-- 🎥 Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" />
-</p>
+<!-- ====================== HEADER SECTION ====================== -->
+<!-- Animated typing SVG with professional title -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&width=550&lines=console.log(%22Awais+Manzoor%22);%2F%2F+Data+Analyst;%2F%2F+SQL+Specialist;%2F%2F+Python+Developer;%2F%2F+BI+Visualization+Expert" alt="Typing Header" />
+</div>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2;">Awais Manzoor</span></h1>
-<h3 align="center">💡 Business Data Analyst | Python & SQL Specialist | Financial Insight Crafter</h3>
+<!-- ====================== BANNER SECTION ====================== -->
+<!-- Professional data analytics GIF banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Data Analytics Banner" style="border-radius:8px;border:1px solid #0a66c2;"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Awais11227&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- ====================== PROFILE BADGES ====================== -->
+<!-- Badges showing profile metrics -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Awais11227&label=PROFILE+VISITS&color=0a66c2&style=flat-square" alt="Profile Visits"/>
+  <img src="https://img.shields.io/github/followers/Awais11227?label=GITHUB+FOLLOWERS&style=flat-square&color=0a66c2" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/ANALYTICS-EXPERT-0a66c2?style=flat-square" alt="Expert Badge"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-</p>
+<!-- ====================== ABOUT SECTION ====================== -->
+/**
+ * @title Professional Profile
+ * @description Business Data Analyst with financial analytics specialization
+ * @skills Python, SQL, Power BI, Tableau, Excel
+ * @contact awaismanzor125@gmail.com
+ */
 
----
+const profile = {
+  name: "Awais Manzoor",
+  role: "Business Data Analyst",
+  specialties: [
+    "Financial Data Modeling",
+    "Database Management",
+    "Automated Reporting",
+    "Statistical Analysis"
+  ],
+  tools: {
+    programming: ["Python", "SQL", "PL/SQL"],
+    visualization: ["Power BI", "Tableau", "Matplotlib"],
+    databases: ["Oracle", "MySQL", "SQLite"],
+    analytics: ["Pandas", "NumPy", "SciPy"]
+  }
+};
 
-### ✨ About Me
-🔍 I'm a business data analyst turning data into actionable insights.  
-⚡ Skilled in **Python, SQL (Oracle & MySQL), Statistics, EDA, and Financial Analysis**.  
-📊 Experienced in **data visualization (Matplotlib, Seaborn, Tableau)** and **automation in Excel**.  
-💬 Contact me at: **awaismanzor125@gmail.com**  
-📢 I share Python & SQL insights on [LinkedIn](https://www.linkedin.com/in/awais-manzoor-27325b327)
-
----
-
-### 🚧 Currently Learning
-- 📊 Tableau Dashboards & Advanced Storytelling  
-- 🧠 Machine Learning basics with Scikit-learn  
-- 🧾 Python Automation (Excel & PDFs)  
-- ⚙️ PL/SQL Procedures & Views  
-
----
-
-### 🧠 Featured Projects  
-
-#### 📊 [Financial Statement Analysis](https://github.com/Awais11227/financial-analysis)  
-🧰 **Excel + Python** → Ratios, Risk, Horizontal & Vertical Analysis    
-📅 May 2025 – June 2025  
-
-#### 🧪 [Python Statistical Analysis](https://github.com/Awais11227/python-statistics)  
-🔍 Box plots, KDE, Skewness, Outliers, CI Testing  
-📅 Ongoing  
-
-#### 🛒 [Order Management System (Python GUI)](https://github.com/Awais11227/order-management-system)  
-📦 Tkinter-based inventory & sales tracker with login system & SQLite  
-📅 July 2024 – Nov 2024  
-
-#### 🚴 [Cycling Violation Report Automation](https://github.com/Awais11227/cycling-violation-report)  
-📌 GPS, Time, Plate Recognition, Auto-generated PDF reports  
-📅 April 2024 – May 2024  
-
----
-
-### 🛠 Skills & Tools  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Oracle_SQL_Developer_logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" />
-</p>
-
----
-
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais11227&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🌐 Let's Connect  
-
-<p align="center">
-  <a href="https://linkedin.com/in/awais-manzoor-27325b327" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-  <a href="https://www.instagram.com/baloxh9e?igsh=ntzib2h4ynpmmtnm" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" />
-  </a>
-  <a href="https://www.facebook.com/share/15fvqdfn7u/?mibextid=wwxifr" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" />
-  </a>
-  <a href="https://discord.gg/awaismanzoor786_47836" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord--v1.png" />
-  </a>
-</p>
+<!-- ====================== SKILLS SECTION ====================== -->
+<!-- Skills organized in categorized code blocks -->
+```python
+# ========== CORE COMPETENCIES ========== #
+skills = {
+    "Programming": {
+        "Python": ["Pandas", "NumPy", "Flask"],
+        "SQL": ["Oracle", "MySQL", "Query Optimization"]
+    },
+    
+    "Visualization": [
+        "Power BI", "Tableau", 
+        "Matplotlib", "Seaborn",
+        "Dashboard Design"
+    ],
+    
+    "Financial Analysis": [
+        "Ratio Analysis", 
+        "Risk Assessment",
+        "Forecasting Models",
+        "Excel Macros"
+    ],
+    
+    "Data Processing": [
+        "ETL Pipelines",
+        "Data Cleaning",
+        "Feature Engineering",
+        "Automation Scripts"
+    ]
+}
