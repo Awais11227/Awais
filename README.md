@@ -1,116 +1,35 @@
-<!-- ====================== HERO IMAGE ====================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/main/assets/programmer.png" alt="Programmer at Computer" width="70%"/>
-</div>
-
-<!-- ====================== HEADER SECTION ====================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Awais+Manzoor;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Business+Data+Analytics+Student;BI+%26+Data+Visualization+Enthusiast" alt="Typing Header" />
-</div>
-
----
-
-## 👨‍💻 About Me  
-🎓 Final year **Business Data Analytics Student** at COMSATS Islamabad  
-📊 Focused on **Data Analysis, BI Dashboards, and Predictive Analytics**  
-⚡ Skilled in **Python, SQL, Excel, Data Visualization**  
-🌱 Currently exploring **Machine Learning & AI for Data Science**  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/awais-manzoor) or by [Email](mailto:awaismanzoor@example.com)  
-
----
-
-## 🛠 Tech Stack  
-
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,figma,vscode" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
 </p>
+
+# 👋 Hi, I'm Awais Manzoor  
+
+💻 Data Analyst | Python Developer | SQL Enthusiast  
+🔍 Passionate about building data-driven solutions and practical projects  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 📊 Financial Statement Analysis  
-Ratios, risk, horizontal & vertical analysis.  
-
-<p align="center">
-  <a href="https://github.com/Awais11227/financial-analysis">
-    <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/main/assets/finance-analysis.png" alt="Financial Analysis" width="600"/>
-  </a>
-</p>  
-🔗 [View Project](https://github.com/Awais11227/financial-analysis)
+### 📚 [Library Management System (Oracle 11g)](https://github.com/Awais11227/library-management-system-oracle11g)  
+A database-driven system to manage books, users, and borrowing records.  
+**Tech Stack:** Oracle 11g, SQL, PL/SQL  
 
 ---
 
-### 🛒 Online Order Management System (Python GUI)  
-Tkinter GUI for inventory, sales, and authentication.  
-
-<p align="center">
-  <a href="https://github.com/Awais11227/order-management-system">
-    <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/main/assets/order-system.png" alt="Order Management System" width="600"/>
-  </a>
-</p>  
-🔗 [View Project](https://github.com/Awais11227/order-management-system)
+### 📊 [Financial Statement Analysis: DFML vs IMCL](https://github.com/Awais11227/Financial-Statement-Analysis-DFML-vs-IMCL)  
+Performed **ratio analysis, vertical and horizontal analysis, and risk-return assessment** to compare two companies.  
+**Tech Stack:** Excel, Python (pandas, matplotlib)  
 
 ---
 
-### 🚴 Bicycle Dashcam & Violation Reporting  
-Helmet-mounted IoT + AI system to detect unsafe overtakes and report violations.  
-
-<p align="center">
-  <a href="https://github.com/Awais11227/bicycle-dashcam">
-    <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/main/assets/bicycle-dashcam.png" alt="Bicycle Dashcam" width="600"/>
-  </a>
-</p>  
-🔗 [View Project](https://github.com/Awais11227/bicycle-dashcam)
+### 🐍 [Python Projects](https://github.com/Awais11227/Python-Projects-)  
+A collection of beginner to advanced Python mini-projects, including GUI apps and problem-solving scripts.  
+**Tech Stack:** Python, Tkinter, Pandas, Matplotlib  
 
 ---
 
-## 📈 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais11227&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awais11227&theme=onedark&margin-w=10&row=1&no-frame=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/awais-manzoor">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:awaismanzoor@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Awais11227">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>  
-
----
-
-<div align="center">
-  <b>⭐ Turning Data into Insights ⭐</b>
-</div>
+## 📫 Connect With Me  
+- LinkedIn: [Awais Manzoor](https://www.linkedin.com/in/awaismanzoor/)  
+- GitHub: [Awais11227](https://github.com/Awais11227)  
