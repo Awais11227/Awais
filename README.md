@@ -84,9 +84,25 @@
 
 ## 📈 Contributions & Growth
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&theme=github-light&hide_border=false&color=1E90FF&line=1E90FF&point=FF4500&area=true&area_color=93C5FD&title_color=1E90FF" width="100%"/> </div> <div align="center"> <img src="https://github.com/Awais11227/Awais11227/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> </div> ---
+<!-- ====================== GITHUB ACTIVITY GRAPH ====================== -->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&custom_title=Awais%20Manzoor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
+</div>
 
----
+<!-- ====================== ANIMATED DATA JOURNEY SECTION ====================== -->
+<div align="center" style="margin: 40px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.15), rgba(59, 130, 246, 0.15)); padding: 30px; border-radius: 20px; border: 2px solid rgba(88, 166, 255, 0.3);">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=58A6FF,1E90FF,00BFFF&center=true&vCenter=true&width=700&lines=Awais+Manzoor+-+Aspiring+Data+Analyst;SQL+%26+Python+Specialist;Exploring+BI+%26+Data+Visualization;Turning+Raw+Data+into+Insights;Building+Future+with+Analytics" alt="Awais Manzoor Journey" />
+  <br><br>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="250" alt="Awais Manzoor Learning Journey" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
+  <br><br>
+  <em style="font-size: 18px; color: #58A6FF;"><b>Every dataset analyzed, every visualization built - one step closer to mastering analytics! 📊✨</b></em>
+</div>
+
+<!-- ====================== DATA FLOW ANIMATION ====================== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="200" alt="Data Flow Animation" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2);">
+</div>
+
 
 ## 🌟 My World Beyond Analytics  
 
