@@ -33,39 +33,29 @@
 
 ---
 
-## 💡 Highlighted Projects
+## 💡 Highlighted Projects  
 
 ### 📚 [Library Management System (Oracle 11g)](https://github.com/Awais11227/library-management-system-oracle11g)  
 - Database-driven system to manage books, users, and borrowing records.  
-**Tech Stack:**
-- Oracle 11g
-- SQL  
+**Tech Stack:** Oracle 11g, SQL  
 
 ---
 
 ### 📊 [Financial Statement Analysis: DFML vs IMCL](https://github.com/Awais11227/Financial-Statement-Analysis-DFML-vs-IMCL)  
 - Ratio analysis, vertical and horizontal analysis, and risk-return assessment to compare two companies.  
-**Tech Stack:**
-- Excel
-- Python
-- Pandas
-- Matplotlib  
+**Tech Stack:** Excel, Python, Pandas, Matplotlib  
 
 ---
 
 ### 🐍 [Python Projects](https://github.com/Awais11227/Python-Projects-)  
 - Collection of beginner to advanced Python projects, including GUI apps and problem-solving scripts.  
-**Tech Stack:**
-- Python
-- Tkinter
-- Pandas
-- Matplotlib  
+**Tech Stack:** Python, Tkinter, Pandas, Matplotlib  
 
 ---
 
-## 📊 My GitHub Journey
+## 📊 My GitHub Journey  
 
-<div align="center" style="padding: 20px; border-radius: 15px; margin: 20px 0;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais11227&theme=tokyonight&hide_border=true" width="48%" />
 </div>
@@ -74,46 +64,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awais11227&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
 ---
 
-## 📊 Growth & Contributions 
+## 📈 Contributions & Growth  
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&custom_title=Awais%20Manzoor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
-<div align="center" style="margin: 30px 0;">
+<div align="center">
   <img src="https://github.com/Awais11227/Awais11227/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
-
 ---
 
-## 🌟 My World Beyond Analytics
-
+## 🌟 My World Beyond Analytics  
 
 <div align="center" style="margin: 30px 0;">
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Cricket Enthusiast🎯</b>
+        <b style="color: #58A6FF;">Cricket Enthusiast 🎯</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Analytical Thinking🧠</b>
+        <b style="color: #58A6FF;">Analytical Thinking 🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Data Analytics📈</b>
+        <b style="color: #58A6FF;">Data Analytics 📈</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Growth🌱</b>
+        <b style="color: #58A6FF;">Growth 🌱</b>
       </td>
     </tr>
   </table>
@@ -121,8 +105,7 @@
 
 ---
 
-## 📡 Reach & Stats
-
+## 📡 Reach & Stats  
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://komarev.com/ghpvc/?username=Awais11227&color=blue&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
@@ -132,8 +115,7 @@
 
 ---
 
-## 🧠 Data Wisdom
-
+## 🧠 Data Wisdom  
 
 <div align="center" style="padding: 30px; border-radius: 20px; margin: 30px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/>
@@ -141,12 +123,11 @@
 
 ---
 
-## 🚀 Projects That Define Me
+## 🚀 Explore My Projects  
 
-
-<div align="center" style="margin: 30px 0;">
+<div align="center">
   <a href="https://github.com/Awais11227?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-1e40af?style=for-the-badge&logoColor=white&labelColor=0f172a" height="50" style="border-radius: 25px;"/>
+    <img src="https://img.shields.io/badge/🚀_View_All_Projects-1e40af?style=for-the-badge&logoColor=white&labelColor=0f172a" height="50" style="border-radius: 25px;"/>
   </a>
 </div>
 <b style="font-size: 18px; color: #58A6FF;">⭐ Star my repositories if you find them helpful!</b><br>
@@ -154,7 +135,7 @@
 
 ---
 
-### 💎 Personal Stamp
+### 💎 Personal Stamp  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Awais+Manzoor+" />
@@ -166,7 +147,7 @@
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Find Me Online  
 
 - LinkedIn: [Awais Manzoor](https://www.linkedin.com/in/awaismanzoor/)  
 - GitHub: [Awais11227](https://github.com/Awais11227)  
