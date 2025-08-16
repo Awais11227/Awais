@@ -141,9 +141,13 @@
 
 ---
 
-## 🧠 Data Wisdom 
+## 🧠 Data Wisdom
 
-<div align="center" style="padding: 30px; border-radius: 20px; margin: 30px 0;"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/> </div> ---
+
+<div align="center" style="padding: 30px; border-radius: 20px; margin: 30px 0;"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/> </div> 
+
+---
+
 
 ## 🚀 Explore My Projects  
 
@@ -160,12 +164,13 @@
 ### 💎 Personal Stamp  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=00BFFF,1E90FF,3B82F6&center=true&vCenter=true&width=700&height=60&lines=+Created+by+awais+Manzoor+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=00BFFF,1E90FF,3B82F6&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Awais+Manzoor+" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF,00BFFF,3B82F6&height=100&section=footer"/>
 </p>
+
 
 ---
 
