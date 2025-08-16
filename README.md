@@ -1,11 +1,16 @@
+<!-- ====================== HERO BANNER ====================== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/main/assets/hero-banner.gif" alt="Hero Banner" width="100%"/>
+</div>
+
 <!-- ====================== HEADER SECTION ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Awais+Manzoor;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Business+Data+Analytics+Student;BI+%26+Data+Visualization+Enthusiast" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Awais+Manzoor;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Business+Data+Analytics+Student;BI+%26+Data+Visualization+Enthusiast" alt="Typing Header" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 🎓 Final year **Business Data Analytics Student** at COMSATS Islamabad  
 📊 Passionate about **Data Analysis, BI Dashboards, and Predictive Analytics**  
 ⚡ Skilled in **Python, SQL, Excel, Data Visualization**  
@@ -14,11 +19,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,figma,vscode" />
-  <br>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,figma,vscode" />
+  <br><br>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -26,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 ### 📊 Financial Statement Analysis  
 Ratios, Risk, Horizontal & Vertical Analysis  
@@ -67,6 +72,20 @@ Helmet-mounted IoT + AI – Detect unsafe overtakes, report violations
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Awais11227&theme=onedark&margin-w=10&row=1&no-frame=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
