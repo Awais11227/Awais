@@ -12,14 +12,14 @@
 
 ## 👨‍💻 About Me  
 🎓 Final year **Business Data Analytics Student** at COMSATS Islamabad  
-📊 Passionate about **Data Analysis, BI Dashboards, and Predictive Analytics**  
+📊 Focused on **Data Analysis, BI Dashboards, and Predictive Analytics**  
 ⚡ Skilled in **Python, SQL, Excel, Data Visualization**  
-🌱 Currently learning **Machine Learning & AI for Data Science**  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/awais-manzoor) | [Email](mailto:awaismanzoor@example.com)  
+🌱 Currently exploring **Machine Learning & AI for Data Science**  
+📫 Reach me on [LinkedIn](https://linkedin.com/in/awais-manzoor) or by [Email](mailto:awaismanzoor@example.com)  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,figma,vscode" />
@@ -34,7 +34,7 @@
 ## 🚀 Featured Projects  
 
 ### 📊 Financial Statement Analysis  
-Ratios, Risk, Horizontal & Vertical Analysis  
+Ratios, risk, horizontal & vertical analysis.  
 
 <p align="center">
   <a href="https://github.com/Awais11227/financial-analysis">
@@ -46,7 +46,7 @@ Ratios, Risk, Horizontal & Vertical Analysis
 ---
 
 ### 🛒 Online Order Management System (Python GUI)  
-Tkinter GUI – Inventory, Sales, Authentication  
+Tkinter GUI for inventory, sales, and authentication.  
 
 <p align="center">
   <a href="https://github.com/Awais11227/order-management-system">
@@ -58,7 +58,7 @@ Tkinter GUI – Inventory, Sales, Authentication
 ---
 
 ### 🚴 Bicycle Dashcam & Violation Reporting  
-Helmet-mounted IoT + AI – Detect unsafe overtakes, report violations  
+Helmet-mounted IoT + AI system to detect unsafe overtakes and report violations.  
 
 <p align="center">
   <a href="https://github.com/Awais11227/bicycle-dashcam">
@@ -69,7 +69,7 @@ Helmet-mounted IoT + AI – Detect unsafe overtakes, report violations
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
@@ -112,5 +112,5 @@ Helmet-mounted IoT + AI – Detect unsafe overtakes, report violations
 ---
 
 <div align="center">
-  <b>⭐ Let's turn Data into Insights! ⭐</b>
+  <b>⭐ Turning Data into Insights ⭐</b>
 </div>
