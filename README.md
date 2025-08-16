@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines= Welcome + to+ My+ Data+ World +I'm+Awais+Manzoor;Data+Analyst;Exploring+Statistical+Analysis+%26+EDA;" alt="Awais Manzoor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,I'm+Awais+Manzoor;Data+Analyst;Exploring+Statistical+Analysis+%26+EDA;" alt="Awais Manzoor" />
 </h1>
 
 <!-- Coding GIF -->
@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me  
-
+ 🚀 Welcome to My Data World
 🎓 BS in Business Data Analytics at COMSATS University Islamabad Campus  
 💻 Data Analyst skilled in **Python, SQL, Statistical Analysis, Power BI, and EDA**  
 🔍 Passionate about uncovering insights through data and building practical projects  
@@ -104,11 +104,11 @@
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Data Analytics Journey📈</b>
+        <b style="color: #58A6FF;">Data Analytics📈</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">## 🌱 Growth</b>
+        <b style="color: #58A6FF;">Growth🌱</b>
       </td>
     </tr>
   </table>
