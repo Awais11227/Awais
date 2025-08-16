@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,+I'm+Awais+Manzoor;Data+Analyst;Exploring+Statistical+Analysis+%26+EDA;" alt="Awais Manzoor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines= Welcome + to+ My+ Data+ World +I'm+Awais+Manzoor;Data+Analyst;Exploring+Statistical+Analysis+%26+EDA;" alt="Awais Manzoor" />
 </h1>
 
 <!-- Coding GIF -->
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## ⚡ Tools & Technologies I Work With  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,27 +33,37 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 💡 Highlighted Projects
 
 ### 📚 [Library Management System (Oracle 11g)](https://github.com/Awais11227/library-management-system-oracle11g)  
 - Database-driven system to manage books, users, and borrowing records.  
-**Tech Stack:** Oracle 11g, SQL  
+**Tech Stack:**
+- Oracle 11g
+- SQL  
 
 ---
 
 ### 📊 [Financial Statement Analysis: DFML vs IMCL](https://github.com/Awais11227/Financial-Statement-Analysis-DFML-vs-IMCL)  
 - Ratio analysis, vertical and horizontal analysis, and risk-return assessment to compare two companies.  
-**Tech Stack:** Excel, Python, Pandas, Matplotlib  
+**Tech Stack:**
+- Excel
+- Python
+- Pandas
+- Matplotlib  
 
 ---
 
 ### 🐍 [Python Projects](https://github.com/Awais11227/Python-Projects-)  
 - Collection of beginner to advanced Python projects, including GUI apps and problem-solving scripts.  
-**Tech Stack:** Python, Tkinter, Pandas, Matplotlib  
+**Tech Stack:**
+- Python
+- Tkinter
+- Pandas
+- Matplotlib  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 My GitHub Journey
 
 <div align="center" style="padding: 20px; border-radius: 15px; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -70,7 +80,7 @@
 
 ---
 
-## 📈 Contribution Activity  
+## 📊 Growth & Contributions 
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&custom_title=Awais%20Manzoor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
@@ -78,26 +88,27 @@
 
 ---
 
-## 🎯 Interests & Hobbies  
+## 🌟 My World Beyond Analytics
+
 
 <div align="center" style="margin: 30px 0;">
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Cricket</b>
+        <b style="color: #58A6FF;">Cricket Enthusiast🎯</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Problem Solving 🧠</b>
+        <b style="color: #58A6FF;">Analytical Thinking🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Data Analytics 💡</b>
+        <b style="color: #58A6FF;">Data Analytics Journey📈</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Learning & Reading 📚</b>
+        <b style="color: #58A6FF;">## 🌱 Growth</b>
       </td>
     </tr>
   </table>
@@ -105,7 +116,8 @@
 
 ---
 
-## 👁‍🗨 Profile Views & Stats  
+## 📡 Reach & Stats
+
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://komarev.com/ghpvc/?username=Awais11227&color=blue&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
@@ -115,7 +127,8 @@
 
 ---
 
-## 💬 Inspirational Quote  
+## 🧠 Data Wisdom
+
 
 <div align="center" style="padding: 30px; border-radius: 20px; margin: 30px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/>
@@ -123,7 +136,8 @@
 
 ---
 
-## 🌟 Explore My Work  
+## 🚀 Projects That Define Me
+
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/Awais11227?tab=repositories">
@@ -135,7 +149,8 @@
 
 ---
 
-### 💖 Signature  
+### 💎 Personal Stamp
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Awais+Manzoor+" />
 </p>
@@ -146,6 +161,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## 🌐 Find Me Online
+
 - LinkedIn: [Awais Manzoor](https://www.linkedin.com/in/awaismanzoor/)  
 - GitHub: [Awais11227](https://github.com/Awais11227)  
