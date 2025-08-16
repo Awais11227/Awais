@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,I'm+Awais+Manzoor;Data+Analyst;Exploring+Statistical+Analysis+%26+EDA;" alt="Awais Manzoor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=1E90FF,00BFFF,4682B4,5A9BD5,3B82F6&center=true&vCenter=true&width=800&lines=Hi,I'm+Awais+Manzoor;Data+Analyst;Exploring+Statistical+Analysis+%26+EDA;" alt="Awais Manzoor" />
 </h1>
 
 <!-- Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Male Data Analyst Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Male Data Analyst Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(30, 144, 255, 0.3);">
 </div>
 
 ---
@@ -56,12 +56,12 @@
 ## 📊 My GitHub Journey  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais11227&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=default&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=0f172a" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais11227&theme=default&hide_border=true&ring=1E90FF&fire=FF6347&currStreakLabel=1E90FF" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=default&hide_border=true&title_color=1E90FF&text_color=0f172a" width="50%" />
 </div>
 
 ---
@@ -69,7 +69,7 @@
 ## 📈 Contributions & Growth  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&theme=github-light&hide_border=false&color=1E90FF&line=1E90FF&point=FF4500&area=true&area_color=93C5FD&title_color=1E90FF" width="100%"/>
 </div>
 
 <div align="center">
@@ -85,19 +85,19 @@
     <tr>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Cricket Enthusiast 🎯</b>
+        <b style="color: #1E90FF;">Cricket Enthusiast 🎯</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Analytical Thinking 🧠</b>
+        <b style="color: #1E90FF;">Analytical Thinking 🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Data Analytics 📈</b>
+        <b style="color: #1E90FF;">Data Analytics 📈</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80"><br>
-        <b style="color: #58A6FF;">Growth 🌱</b>
+        <b style="color: #1E90FF;">Growth 🌱</b>
       </td>
     </tr>
   </table>
@@ -108,9 +108,9 @@
 ## 📡 Reach & Stats  
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://komarev.com/ghpvc/?username=Awais11227&color=blue&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
-  <img src="https://img.shields.io/github/followers/Awais11227?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" height="35"/>
-  <img src="https://img.shields.io/github/stars/Awais11227?color=blue&style=for-the-badge&logo=github&label=STARS" height="35"/>
+  <img src="https://komarev.com/ghpvc/?username=Awais11227&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
+  <img src="https://img.shields.io/github/followers/Awais11227?color=1E90FF&style=for-the-badge&logo=github&label=FOLLOWERS" height="35"/>
+  <img src="https://img.shields.io/github/stars/Awais11227?color=1E90FF&style=for-the-badge&logo=github&label=STARS" height="35"/>
 </div>
 
 ---
@@ -118,7 +118,7 @@
 ## 🧠 Data Wisdom  
 
 <div align="center" style="padding: 30px; border-radius: 20px; margin: 30px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -127,11 +127,11 @@
 
 <div align="center">
   <a href="https://github.com/Awais11227?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_View_All_Projects-1e40af?style=for-the-badge&logoColor=white&labelColor=0f172a" height="50" style="border-radius: 25px;"/>
+    <img src="https://img.shields.io/badge/🚀_View_All_Projects-1E90FF?style=for-the-badge&logoColor=white&labelColor=0f172a" height="50" style="border-radius: 25px;"/>
   </a>
 </div>
-<b style="font-size: 18px; color: #58A6FF;">⭐ Star my repositories if you find them helpful!</b><br>
-<em style="color: #93c5fd;">Let's connect and create something impactful together! 💙</em>
+<b style="font-size: 18px; color: #1E90FF;">⭐ Star my repositories if you find them helpful!</b><br>
+<em style="color: #3B82F6;">Let's connect and create something impactful together! 💙</em>
 
 ---
 
