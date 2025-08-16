@@ -82,15 +82,9 @@
 
 ---
 
-## 📈 Contributions & Growth  
+## 📈 Contributions & Growth
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&theme=github-light&hide_border=false&color=1E90FF&line=4682B4&point=00BFFF&area=true&area_color=93C5FD&title_color=1E90FF" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Awais11227/Awais11227/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&theme=github-light&hide_border=false&color=1E90FF&line=1E90FF&point=FF4500&area=true&area_color=93C5FD&title_color=1E90FF" width="100%"/> </div> <div align="center"> <img src="https://github.com/Awais11227/Awais11227/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> </div> ---
 
 ---
 
@@ -131,13 +125,9 @@
 
 ---
 
-## 🧠 Data Wisdom  
+## 🧠 Data Wisdom 
 
-<div align="center" style="padding: 30px; border-radius: 20px; margin: 30px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/>
-</div>
-
----
+<div align="center" style="padding: 30px; border-radius: 20px; margin: 30px 0;"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/> </div> ---
 
 ## 🚀 Explore My Projects  
 
