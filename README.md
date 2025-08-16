@@ -86,6 +86,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&custom_title=Awais%20Manzoor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github.com/Awais11227/Awais11227/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</div>
+
+
 ---
 
 ## 🌟 My World Beyond Analytics
