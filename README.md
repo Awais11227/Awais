@@ -1,9 +1,11 @@
 <!-- ====================== HERO BANNER ====================== -->
+<!-- Ye image ek banner hai jo top par dikhai dega -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/main/assets/hero-banner.gif" alt="Hero Banner" width="100%"/>
 </div>
 
-<!-- ====================== HEADER SECTION ====================== -->
+<!-- ====================== HEADER / INTRO ====================== -->
+<!-- Ye animated typing text hai jo apka naam aur skills dikhata hai -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Awais+Manzoor;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Business+Data+Analytics+Student;BI+%26+Data+Visualization+Enthusiast" alt="Typing Header" />
 </div>
@@ -23,6 +25,7 @@
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack  
 
+<!-- Ye icons aur badges apke tools / languages ko show karte hain -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,figma,vscode" />
   <br><br>
@@ -36,16 +39,19 @@
 <!-- ====================== FEATURED PROJECTS ====================== -->
 ## 🚀 Featured Projects  
 
+<!-- Project 1: Financial Analysis -->
 ### 📊 Financial Statement Analysis  
 Ratios, Risk, Horizontal & Vertical Analysis  
 
 <p align="center">
+  <!-- Yahan apni project ki image ka link dalna hai -->
   <img src="https://raw.githubusercontent.com/Awais11227/Awais11227/main/assets/finance-analysis.png" alt="Financial Analysis" width="600"/>
 </p>  
 🔗 [View Project](https://github.com/Awais11227/financial-analysis)
 
 ---
 
+<!-- Project 2: Online Order System -->
 ### 🛒 Online Order Management System (Python GUI)  
 Tkinter GUI – Inventory, Sales, Authentication  
 
@@ -56,6 +62,7 @@ Tkinter GUI – Inventory, Sales, Authentication
 
 ---
 
+<!-- Project 3: Bicycle Dashcam -->
 ### 🚴 Bicycle Dashcam & Violation Reporting  
 Helmet-mounted IoT + AI – Detect unsafe overtakes, report violations  
 
@@ -69,11 +76,13 @@ Helmet-mounted IoT + AI – Detect unsafe overtakes, report violations
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📈 GitHub Stats  
 
+<!-- Ye section apke GitHub ke stats aur streak dikhata hai -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Awais11227&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais11227&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>  
 
+<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&theme=tokyo-night" alt="Contribution Graph" />
 </p>
@@ -112,6 +121,7 @@ Helmet-mounted IoT + AI – Detect unsafe overtakes, report violations
 
 ---
 
+<!-- ====================== FOOTER ====================== -->
 <div align="center">
   <b>⭐ Let's turn Data into Insights! ⭐</b>
 </div>
